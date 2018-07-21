@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Henna Care Sheet
 
-You can use the [editor on GitHub](https://github.com/ericwooley/henna-care-instructions/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Henna can last from 1-2 weeks depending on body placement, frequency and the vigour of your bathing routine, and skin type.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You should apply at least one coat of lemon-sugar solution. This helps the staining process and also keeps the dried paste on your skin.
 
-### Markdown
+The longer you keep your henna paste on your skin the darker the stain will be. We suggest you leave the dried paste on for at least 6 hours, or overnight, for best results.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When you first remove the henna paste the stain will be light orange, but will continue to darken over the next 2-3 days.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ericwooley/henna-care-instructions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Scrubbing and constant exposure to water will remove your henna tattoo more quickly.
