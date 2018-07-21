@@ -1,3 +1,7 @@
+---
+title: The Henna Bay
+---
+
 Henna Care Sheet
 
 Henna can last from 1-2 weeks depending on body placement, frequency and the vigour of your bathing routine, and skin type.
